@@ -1,8 +1,6 @@
 # TERP_CAT
 a repository of information on OP_CAT compiled by Terp and Team
 
-a repository of information on OP_CAT compiled by Team DED77
-
 The Bitcoin Improvement Protocol (BIP) OP_CHECKTEMPLATEVERIFY (CTV) is a proposal that aims to enhance Bitcoin's scripting capabilities. It introduces a new opcode, OP_CHECKTEMPLATEVERIFY, which is designed to enable more complex smart contracts while maintaining security. The primary focus is on improving the efficiency and flexibility of Bitcoin's scripting language.
 
 RGB (Rust, Bitcoin, and Lightning) is a layer 2 protocol built on top of Bitcoin. It facilitates the creation and management of tokens (colored coins) on the Bitcoin blockchain. RGB aims to provide a scalable and privacy-focused solution for tokenization, allowing users to issue, transfer, and trade tokens securely without relying on a separate blockchain.
