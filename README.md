@@ -1,5 +1,5 @@
 # TERP_CAT
-a repository of information on OP_CAT compiled by Terp and Team
+a repository of information on OP_CAT compiled by Terp and @4 @Fevra @Wacy
 
 The Bitcoin Improvement Protocol (BIP) OP_CHECKTEMPLATEVERIFY (CTV) is a proposal that aims to enhance Bitcoin's scripting capabilities. It introduces a new opcode, OP_CHECKTEMPLATEVERIFY, which is designed to enable more complex smart contracts while maintaining security. The primary focus is on improving the efficiency and flexibility of Bitcoin's scripting language.
 
